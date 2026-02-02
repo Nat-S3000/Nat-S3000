@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Nat-S3000/Nat-S3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Cytometry In R
 
 Location: Adelaide, Australia, SA
